@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
+Hey there! This is Buddruggy's blog, Hope you have fun!
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lwzmyhigh@outlook.com](mailto:lwzmyhigh@outlook.com)
